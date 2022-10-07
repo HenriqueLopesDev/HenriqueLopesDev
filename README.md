@@ -1,6 +1,6 @@
 # Henrique Lopes
 
-Computer Science student passionate about new technologies.
+Computer Science student passionate about new technologies and Ethical hacking.
 
 👨‍💻 Currently studying Javascript, libraries and frameworks (ReactJS and NodeJS).
 
